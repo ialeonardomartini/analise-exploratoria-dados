@@ -1,15 +1,58 @@
-## analise-exploratoria-dados
+# 📊 Análise Exploratória de Dados (EDA)  
 
-Prepare-se para aprofundar suas habilidades de análise e torne-se um analista de dados mais competente e confiante!
+![Python](https://img.shields.io/badge/Python-Data%20Science-yellow?style=for-the-badge&logo=python)  
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-blue?style=for-the-badge&logo=pandas)  
+![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-orange?style=for-the-badge&logo=plotly)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Data%20Visualization-red?style=for-the-badge&logo=plotly)  
 
+## 📌 Sobre este repositório  
 
-Com o curso Análise Exploratória de Dados (do inglês Exploratory Data Analysis – EDA), você irá aprender a descobrir padrões, identificar insights e compreender melhor o conjunto de dados com o qual está trabalhando.
+Este repositório é um **portfólio de aprendizado e prática** em **Análise Exploratória de Dados (EDA)**, aplicando os conceitos do curso **Análise Exploratória de Dados** da **Asimov Academy**.  
 
+Aqui, demonstro como explorar conjuntos de dados para descobrir **padrões, insights e anomalias**, utilizando estatísticas descritivas e técnicas de visualização. Além do conteúdo do curso, adiciono análises extras e desafios práticos para aprofundar o conhecimento. 🚀  
 
-Começaremos pelo básico, aprendendo a ler e carregar os dados em Python. A partir daí, exploraremos cada aspecto da tabela de dados, entendendo suas colunas, tipos de dados e estrutura. Você dominará a identificação de valores ausentes e como lidar com eles, garantindo que seus dados estejam prontos para análise.
+---
 
-Em seguida, nos aprofundaremos nas técnicas para explorar os valores numéricos do conjunto de dados. Usaremos boxplots para identificar outliers, compreender a distribuição dos dados e detectar possíveis discrepâncias. Com histogramas, violinos e outras visualizações, você irá investigar a distribuição dos valores e entender suas características.
+## 📚 O que estou aprendendo?  
 
-Além dos valores numéricos, também exploraremos os valores categóricos do conjunto de dados. Veremos como criar gráficos de barras para comparar diferentes categorias e analisar sua distribuição. Descobriremos como medir a normalidade e outras métricas de dispersão para entender a variabilidade dos dados e sua relevância para a análise. Também abordaremos os conceitos de correlação e regressão linear, tanto do ponto de vista gráfico quanto estatístico.
+### ✔ **Preparação e Estruturação dos Dados**  
+- Leitura e carregamento de dados em **Python**  
+- Estruturação de **DataFrames** e tipos de dados  
+- Identificação e tratamento de **valores ausentes**  
 
-Comece agora e desbloqueie todo o potencial dos seus conjuntos de dados!
+### ✔ **Exploração de Valores Numéricos**  
+- Análise estatística com **média, mediana e desvio padrão**  
+- Identificação de **outliers** com **boxplots** 📦  
+- Distribuição de dados com **histogramas e gráficos de violino** 🎻  
+
+### ✔ **Exploração de Valores Categóricos**  
+- Comparação de categorias com **gráficos de barras** 📊  
+- Medidas de **dispersão e normalidade**  
+- **Correlação e regressão linear** para avaliar relações entre variáveis  
+
+### ✔ **Visualização de Dados**  
+- Uso de **Matplotlib e Seaborn** para criar gráficos interativos  
+- Análise gráfica para detectar **tendências e discrepâncias**  
+
+---
+
+## 🏆 Objetivo  
+
+O objetivo deste repositório é **demonstrar habilidades em análise exploratória de dados**, aplicando técnicas estatísticas e visuais para entender melhor os conjuntos de dados e extrair insights relevantes.  
+
+Se você deseja aprender **EDA** e aprimorar sua análise de dados, este repositório pode ser uma ótima fonte de estudo!  
+
+---
+
+## 🔧 Tecnologias utilizadas  
+
+- **Python** 🐍  
+- **Pandas** 📊  
+- **NumPy** 🔢  
+- **Matplotlib** 📈  
+- **Seaborn** 🎨  
+
+---
+
+🚀 **Vamos explorar dados!** Se quiser contribuir ou trocar ideias, fique à vontade para abrir uma *issue* ou um *pull request*!  
+
